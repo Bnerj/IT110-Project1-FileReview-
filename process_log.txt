@@ -1,88 +1,93 @@
 # IT110 - Project 1: File Review and Organization Plan 
 
-Author: Bertnah Nerjuste 
-Course: IT-110 University of Massachusetts - Boston 
-Date: November 2025
+**Author:** Bertnah Nerjuste 
+**Course:** IT-110, University of Massachusetts - Boston 
+**Date:** November 2025
 
----
 # Project Overview
-This project involved analzing a ZIP archive containing numerous disorganized student files with inconsistent naming, hash-like filenames, and no clear directory structure. The objective was not to reorganize the file directly, but to:    
 
-- Review and asses the contents of the ZIP archive 
-- Document each step tken usng Linux command-line tools 
+This project involved analyzing a ZIP archive containing numerous disorganized student files with inconsistent naming, hash-like filenames, and no clear directory structure. The objective was not to reorganize the file directly, but to:    
+
+- Review and assess the contents of the ZIP archive 
+- Document each step taken using Linux command-line tools 
 - Identify issues with the existing file organization 
 - Propose a complete, logical solution for restructuring the data
-- Answer reflectio and analysis questions in a written report
+- Answer reflection and analysis questions in a written report
 
-This repository includes the process log and final report summarizing findings and proposed solution. 
-
----
+This repository includes the process log and final report summarizing findings and proposed solution 
 
 # What I Did in This Project
 
-- Used Linux commands ('ls', 'head', 'mkdir'. 'mv')
-- Transferred the ZIP archive to a remote server using 'scp'
+- Used Linux commands (`ls`, `head`, `mkdir`, `mv`)
+- Transferred the ZIP archive to a remote server using `scp`
 - Navigated and examined files in a UNIX environment 
-- Created a detailed step-by-step activity log 
-- Proposed a directory hierarchy based on course - assignment - student information
+- Created a detailed, step-by-step activity log 
+- Proposed a directory hierarchy based on course/assignment/student information
 - Suggested standard file-naming conventions to replace hash-like filenames 
-- Wrote a complete technical analysis and report. 
-
----
+- Wrote a complete technical analysis and report 
 
 # Repository Contents 
 
-No original student data is included to protect privacy 
+- process_log.txt - Timestamped log of actions performed 
+- project_report.md - Full write-up, findings, and proposed solution
 
----
+**Note** - No original student data is included to protect privacy 
 
 # Skills Demonstrated 
 - **Linux Command-Line Proficiency** 
-Navigating directories, viewing file contents, creating folders, planning file moves. 
+Navigating directories, viewing file contents, creating folders, planning file moves
+
 
 - **Remote Server Interaction**
-Transferring files using 'scp', working on a remote Ubuntu environment. 
+Transferring files using `scp`, working on a remote Ubuntu environment 
+
 
 - **File System Analysis**
-Reviewing disorganized files and designing a scalable organizatioal strategy. 
+Reviewing disorganized files and designing a scalable organizational strategy
+
 
 - **Technical Documentation**
-Writing clear logs, messy data and designing logical, repeatable workflow
+Writing clear logs, messy data, and designing logical, repeatable workflow
+
 
 - **Problem-Solving & Structured Thinking**
-Taking unclear, messy data and designing a logical, repeatable workflow 
+Taking unclear, messy data, and designing a logical, repeatable workflow 
+
 
 - **Version Control & GitHub Usage**
-Uploading reports/logs and maintaing a professional technical repository. 
-
---- 
+Uploading reports/logs and maintaining a professional technical repository 
 
 # Summary 
-This project demonstartes my ability to work in a Linux environment, analyze unstructured data, document processes, and propose technical solutions - all essential skills for entry-level IT, support, cybersecurity, and system administration roles.  
 
---- 
+This project demonstrates my ability to work in a Linux environment, analyze unstructured data, document processes, and propose technical solutions - all essential skills for entry-level IT, Support, Cybersecurity, and System Administration roles.  
 
-===============================
-Project 1 Process Log
-================================
+# Project 1 Process Log
 
 2025-09-10 6:30 PM  
-- Downloaded and extracted the student_files.zip archive locally.
+- Downloaded and extracted the student_files.zip archive locally
 
 2025-09-10 6:44 PM  
-- Transferred student_files.zip to a remote Ubuntu server using SCP.  
-  Command: scp -r ~/Downloads/student_files <remote-server>:/home/<user>/
+- Transferred student_files.zip to a remote Ubuntu server using SCP  
+```bash
+scp -r ~/Downloads/student_files.zip <remote-server>:/home/<user>/
+```
 
 2025-09-10 6:55 PM  
-- Logged into the remote server and navigated to the working directory.  
-  Command: cd ~/student_files
+- Logged into the remote server and navigated to the working directory  
+```bash
+cd ~/student_files
+```
 
-- Observed filenames with long, hash-like formats.  
-  Command: ls
+- Observed filenames with long, hash-like formats. 
+```bash 
+ls
+```
 
-2025-09-10 6:55 PM  
-- Viewed sample file contents to determine structure.  
-  Command: head filename.txt
+2025-09-10 6:56 PM  
+- Viewed sample file contents to determine structure  
+```bash 
+head filename.txt
+```
 
 2025-09-10 7:01 PM  
 - Developed a proposed directory structure:  
@@ -91,10 +96,10 @@ Project 1 Process Log
 - Proposed renaming scheme: LastName_FirstName_Project#.txt
 
 2025-09-10 7:11 PM  
-- Began writing the project report and answering assignment questions.
+- Began writing the project report and answering assignment questions
 
 2025-09-10 7:47 PM  
-- Completed discussion and saved report.
+- Completed discussion and saved report
 
 2025-09-10 8:19 PM  
-- Ended session for the day.
+- Ended session for the day
