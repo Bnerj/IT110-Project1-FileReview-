@@ -1,11 +1,12 @@
-# IT110 - Project 1: File Review and Organization Plan 
-
+# Process Log - IT110 Project 1
+## Record of project process. 
 **Author:** Bertnah Nerjuste 
-**Course:** IT-110, University of Massachusetts - Boston 
 **Date:** November 2025
 
-# Project Overview
+---
 
+
+## Project Overview
 This project involved analyzing a ZIP archive containing numerous disorganized student files with inconsistent naming, hash-like filenames, and no clear directory structure. The objective was not to reorganize the file directly, but to:    
 
 - Review and assess the contents of the ZIP archive 
