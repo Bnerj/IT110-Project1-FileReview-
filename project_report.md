@@ -36,6 +36,7 @@ The following structure organizes files by:
 ## 5. Proposed Naming Conventions 
 A consistent naming system:  
 `LastName_FirstName_Project#.txt`  
+
 This improves readability, searchability, and scalability.
 
 ## 6. Conclusion 
