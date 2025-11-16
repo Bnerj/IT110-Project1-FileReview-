@@ -18,7 +18,7 @@ A technical analysis project focused on assessing and documenting a set of disor
    ```
    This script takes a directory of unorganized submissions and outputs a standardized, cleaned structure.
 
-3. Review documentation
+## Review documentation
 
 All observations, issues, and solutions are documented in:
 
