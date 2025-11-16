@@ -14,7 +14,7 @@ A technical analysis project focused on assessing and documenting a set of disor
    ```
 2. Run the primary script: 
    ```bash
-   bash organize_submissions.sh/path/to/submissions
+   bash organize_submissions.sh /path/to/submissions
    ```
    This script takes a directory of unorganized submissions and outputs a standardized, cleaned structure.
    
