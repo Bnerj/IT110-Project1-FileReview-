@@ -33,6 +33,7 @@ A technical analysis project focused on assessing and documenting a set of disor
 
 - `organize_submissions.sh` - Main script to organize files
 - `report.md` - Documentation of observed issues and solutions
+- `README.md` - Project overview 
 
 ## Author
 
