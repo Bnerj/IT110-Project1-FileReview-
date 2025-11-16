@@ -1,6 +1,6 @@
  IT110-Project1-FileReview-
 
-A technical analysis project focused on assessing and documenting a set of disorganized student submission files within a Linux environment. This project uses command-line tools to:
+A technical analysis project focused on assessing and documenting a set of disorganized student submission files within a Linux environment. Although the original ZIP file was not modified directly in this repository, this project includes a script that represents the exact process used to reorganize and standardize the folder structure. This project uses command-line tools to:
 - Analyze the file structure and naming conventions of student submissions
 - Identify organizational issues and inconsistencies
 - Implement a standardized folder structure for easy access and grading
