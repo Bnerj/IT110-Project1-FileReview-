@@ -6,6 +6,13 @@ A technical analysis project focused on assessing and documenting a set of disor
 - Implement a standardized folder structure for easy access and grading
 - Document the process and provide recommendations for future submissions
 
+## Project Highlights 
+- Automatiion of file organization for 100+ student submissions
+- Standardizing folder structure and naming conventions
+- Using Linux command-line tools (ls, mv, awk) for analysis
+- Writting reproducible scripts for data processing
+- Documenting proesses and solutions for clarity
+
 ## Getting Started
 
 1. Clone the repository:
