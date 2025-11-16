@@ -23,7 +23,7 @@ A technical analysis project focused on assessing and documenting a set of disor
 
 - Before:
 ```bash
-student1_finacl_final(1).txt
+student1_finacl_FINAL(1).txt
 finalproject.txt
 jon_doe.docx
 ```
