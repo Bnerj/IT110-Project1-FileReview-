@@ -1,4 +1,4 @@
-# Solution Plan
+# Solution Plan - IN PROGRESS!!!!!
 
 ## Objectives
 - [ ] Clearly define the goals of the project (e.g., organize student submissions, standardize structure).
