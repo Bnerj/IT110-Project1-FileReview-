@@ -36,9 +36,9 @@ jon_doe.docx
 
 ## Review documentation
 
-- All observations, issues, and solutions are documented in: report.md
+- All observations, issues, and solutions are documented in: 
 
-- report.md – Analysis and explanation of how the script solves the identified problems
+ - report.md – Analysis and explanation of how the script solves the identified problems
 
 ## Requirements
 
