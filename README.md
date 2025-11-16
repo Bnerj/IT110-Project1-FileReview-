@@ -12,7 +12,7 @@ A technical analysis project focused on assessing and documenting a set of disor
    ```bash
    git clone https://github.com/Bnerj/IT110-Project1-FileReview-.git
    ```
-2. Run the primary script:
+2. Run the primary script: This script takes a directory of unorganized submissions and outputs a standardized, cleaned structure.
    ```bash
    bash organize_submissions.sh/path/to/submissions
    ```
