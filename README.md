@@ -19,13 +19,13 @@ A technical analysis project focused on assessing and documenting a set of disor
    This script takes a directory of unorganized submissions and outputs a standardized, cleaned structure.
    
 ## Example Output:
-- Below is an example of how the script reorganizes unstructures student files:
+- Below is an example of how the script reorganizes unstructured student files:
 
 - Before:
 ```bash
 student1_final_FINAL(1).txt
 finalproject.txt
-jon_doe.docx
+john_doe.docx
 ```
 
 - After:
