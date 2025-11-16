@@ -1,2 +1,36 @@
-# IT110-Project1-FileReview-
-IT10 File Review &amp; Organization Plan - A technical analysis project focused on assessing and documenting a set of disorganized students submission files within a Linux environment. Using commands such as scp, ls, head, and mkdir, I evaluated the archive structure and identified naming inconsistencies, and developed a complete reorganization plan. 
+ IT110-Project1-FileReview-
+
+A technical analysis project focused on assessing and documenting a set of disorganized student submission files within a Linux environment. This project uses command-line tools to:
+- Analyze the file structure and naming conventions of student submissions
+- Identify organizational issues and inconsistencies
+- Implement a standardized folder structure for easy access and grading
+- Document the process and provide recommendations for future submissions
+
+## Getting Started
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Bnerj/IT110-Project1-FileReview-.git
+   ```
+2. Run the primary script:
+   ```bash
+   bash organize_submissions.sh/path/to/submissions
+   ```
+
+## Requirements
+
+- Linux (Ubuntu tested)
+- Standard Unix command-line utilities (`ls`, `mv`, `awk`, etc.)
+
+## Project Structure
+
+- `organize_submissions.sh` - Main script to organize files
+- `report.md` - Documentation of observed issues and solutions
+
+## Author
+
+- Bnerj
+
+## License
+
+MIT
