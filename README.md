@@ -17,6 +17,22 @@ A technical analysis project focused on assessing and documenting a set of disor
    bash organize_submissions.sh/path/to/submissions
    ```
    This script takes a directory of unorganized submissions and outputs a standardized, cleaned structure.
+   
+4. Example Output:
+- Below is an example of how the script reorganizes unstructures student files:
+
+- Before:
+```bash
+student1_finacl_final(1).txt
+finalproject.txt
+jon_doe.docx
+```
+
+- After:
+```bash
+/Doe_John/IT110_Project1/
+/Smith_Ana/IT110_Project1/
+```
 
 ## Review documentation
 
