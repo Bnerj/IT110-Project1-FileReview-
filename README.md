@@ -10,8 +10,8 @@ A technical analysis project focused on assessing and documenting a set of disor
 - Automation of file organization for 100+ student submissions
 - Standardizing folder structure and naming conventions
 - Using Linux command-line tools (ls, mv, awk) for analysis
-- Writting reproducible scripts for data processing
-- Documenting proesses and solutions for clarity
+- Writing reproducible scripts for data processing
+- Documenting processes and solutions for clarity
 
 ## Getting Started
 
