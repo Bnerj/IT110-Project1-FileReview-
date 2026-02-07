@@ -2,33 +2,36 @@
 
 ---
 ### Part of the UMB IT Coursework Portfolio
-- This project is a component of my academic journey at **University of Massachusetts Boston**.[Back to Main Coursework Repository](https://github.com/Bnerj/umb-it-coursework)
+- This project is a component of my academic journey at **University of Massachusetts Boston**. [Back to Main Coursework Repository](https://github.com/Bnerj/umb-it-coursework)
 ---
 
-A technical analysis project focused on assessing and documenting a set of disorganized student submission files within a Linux environment. Although the original ZIP file was not modified directly in this repository, this project includes a script that represents the exact process used to reorganize and standardize the folder structure. This project uses command-line tools to:
+- A technical analysis project focused on assessing and documenting a set of disorganized student submission files within a Linux environment. Although the original ZIP file was not modified directly in this repository, this project includes a script that represents the exact process used to reorganize and standardize the folder structure.
+
+### Core Functionality
+This project uses command-line tools to:
 - Analyze the file structure and naming conventions of student submissions
 - Identify organizational issues and inconsistencies
 - Implement a standardized folder structure for easy access and grading
 - Document the process and provide recommendations for future submissions
 
 ## Project Highlights 
-- Automation of file organization for 100+ student submissions
-- Standardizing folder structure and naming conventions
-- Using Linux command-line tools (ls, mv, awk) for analysis
-- Writing reproducible scripts for data processing
-- Documenting processes and solutions for clarity
+- **Automation:** of file organization for 100+ student submissions
+- **Standardizing:** folder structure and naming conventions
+- **Tools Used:** Linux command-line tools (ls, mv, awk) for data analysis
+- **Reproducibility:** Writing reproducible scripts for data processing
+- **Documentation:** Documenting processes and solutions for clarity
 
 ## Getting Started
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Bnerj/IT110-Project1-FileReview-.git
+   git clone [https://github.com/Bnerj/IT110-Project1-FileReview-.git](https://github.com/Bnerj/IT-110-Project1-FileReview-.got)
    ```
 2. Run the primary script: 
    ```bash
    bash organize_submissions.sh /path/to/submissions
    ```
-   This script takes a directory of unorganized submissions and outputs a standardized, cleaned structure.
+   Note: This script takes a directory of unorganized submissions and outputs a standardized, cleaned structure.
    
 ## Example Output:
 - Below is an example of how the script reorganizes unstructured student files:
@@ -48,8 +51,7 @@ john_doe.docx
 
 ## Review documentation
 
-- All observations, issues, and solutions are documented in: 
-
+All observations, issues, and solutions are documented in: 
  - report.md – Analysis and explanation of how the script solves the identified problems
 
 ## Requirements
