@@ -1,5 +1,10 @@
 # IT110-Project1-FileReview-
 
+---
+### Part of the UMB IT Coursework Portfolio
+- This project is a component of my academic journey at **University of Massachusetts Boston**.[Back to Main Coursework Repository](https://github.com/Bnerj/umb-it-coursework)
+---
+
 A technical analysis project focused on assessing and documenting a set of disorganized student submission files within a Linux environment. Although the original ZIP file was not modified directly in this repository, this project includes a script that represents the exact process used to reorganize and standardize the folder structure. This project uses command-line tools to:
 - Analyze the file structure and naming conventions of student submissions
 - Identify organizational issues and inconsistencies
